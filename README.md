@@ -1,7 +1,7 @@
 # Geometry Monster
 ![Game Logo](https://i.ibb.co/qgPs5Ty/game-title.png)
 
-Geometry Monster is a hyper-casual mobile game suitable for mobile devices.
+Geometry Monster is a hyper-casual game suitable for mobile devices.
 I developed this game using [GDevelop](https://gdevelop.io/) game engine. [GDevelop](https://gdevelop.io/) is a free, open-source, and cross-platform game creation tool. 
 
 ## How to Play?
